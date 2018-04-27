@@ -1,0 +1,196 @@
+
+
+/*All Pages*/
+
+ .topractice {
+   width: 100%;
+   background-color: white;
+ }
+
+.top {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+   background-color: white;
+}
+
+
+
+.header {
+	float: left;
+	color: white;
+	background-color:#4aaaa5;
+	padding: 20px;
+}
+
+
+
+li  {
+    float: right;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.backgroundgrey{
+   width: 100%;
+   background-color:#dddddd;
+   padding: 20px 0px;
+}
+
+
+.main {
+	clear: both;
+	background-color: white;
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+#subheader{
+   color: #4aaaa5;
+    border-bottom: 5px solid #dddddd;
+    margin: 15px;
+   
+}
+
+
+.tealbottom{
+	background-color:#4aaaa5;
+	color: #4aaaa5;
+	margin: -1em 0em;
+	
+}
+.copyright{
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 7px;
+	
+}
+
+/*About Me*/
+
+#picture{
+	float: left;
+	margin: 15px;
+}
+
+.paragraph {
+	margin: 15px;
+}
+
+
+/* Portfolio */
+
+
+
+
+.sydney { 
+   position: relative;
+   
+
+}
+
+#sydney{ 
+   position: absolute; 
+   top: 150px; 
+   left: 50px;  
+   color: white;
+   background-color:#4aaaa5;
+   width: 250px;
+   padding: 0px;
+   text-align: center;
+}
+
+.bike {
+	position: relative;
+}
+
+#bike{ 
+   position: absolute; 
+   top: 150px; 
+   left: 50px; 
+   color: white;
+   background-color:#4aaaa5;
+   width: 250px;
+   padding: 0px;
+   text-align: center;
+
+
+}
+
+.building {
+	position: relative;
+}
+
+#building{ 
+   position: absolute; 
+   top: 150px; 
+   left: 50px; 
+   color: white;
+   background-color:#4aaaa5;
+   width: 250px;
+   padding: 0px;
+   text-align: center;
+
+}
+
+.eye {
+	position: relative;
+}
+
+#eye{ 
+   position: absolute; 
+   top: 150px; 
+   left: 50px;  
+   color: white;
+   background-color:#4aaaa5;
+   width: 250px;
+   padding: 0px;
+   text-align: center;
+
+}
+
+.waves {
+	position: relative;
+}
+
+#waves{ 
+   position: absolute; 
+   top: 150px; 
+   left: 50px;  
+   color: white;
+   background-color:#4aaaa5;
+   width: 250px;
+   padding: 0px;
+   text-align: center;
+}
+
+
+/* Contact */
+
+form {
+	padding: 15px;
+
+}
+
+.submit {
+	background-color:#4aaaa5 ;
+}
+
+.message{
+	height: 100px;
+	width: 100%;
+}
+
+.name {
+	width: 100%;
+}
+
+.email{
+	width: 100%;
+}
