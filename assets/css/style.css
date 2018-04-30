@@ -1,3 +1,77 @@
+/*Media Queries*/
+
+/*
+@media only screen and (max-width: 980px) {
+    .paragraph {
+        width: 960px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .paragraph {
+        width: 750px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .paragraph {
+        width: 630px;
+    }
+}
+
+
+@media only screen and (max-width: 980px) {
+    form {
+        width: 960px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    form {
+        width: 750px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    form {
+        width: 630px;
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .subheader {
+        width: 960px;
+        margin: 15px 0px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .subheader {
+        width: 750px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .subheader {
+        width: 630px;
+    }
+}
+*/
+@media only screen and (max-width: 980px) {
+    .main {
+        width: 960px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .main {
+        width: 750px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .main {
+        width: 630px;
+    }
+}
+/*980px, 768px, 640px
+
 
 
 /*All Pages*/
@@ -44,7 +118,6 @@ li  {
 .main {
 	clear: both;
 	background-color: white;
-   width: 960px;
    margin-left: auto;
    margin-right: auto;
 
